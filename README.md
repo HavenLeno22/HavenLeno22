@@ -42,6 +42,7 @@ interface, mostly with React, Node.js and Spring Boot.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [NextUp](https://github.com/HavenLeno22/nextup-campus-queue) | Campus queue and token system: join by QR, live place in line and wait time, staff console, TV board and analytics (team course project) | Spring Boot, React, WebSocket (STOMP), JWT |
 | [Anatomix AI](https://github.com/HavenLeno22/anatomix-ai) ([live](https://havenleno22.github.io/anatomix-ai/)) | 3D anatomy learning: organs, body systems, diseases and quizzes (work in progress) | React, Three.js |
 | [HealthSys EMR](https://github.com/HavenLeno22/healthsys-emr) ([live](https://havenleno22.github.io/healthsys-emr/)) | Hospital records prototype: patient charts, documents and scheduling (course project) | HTML, Tailwind CSS, JavaScript |
 | [AgriTrace](https://github.com/HavenLeno22/agritrace) | Farm-to-fork supply-chain tracker, from the Hack To The Future hackathon | Node.js, Express, Gemini API |
