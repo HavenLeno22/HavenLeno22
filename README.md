@@ -1,4 +1,4 @@
-<a href="https://havenleno22.github.io/"><img src="assets/banner.png" alt="Haven Leno J, full-stack developer. MERN Stack Intern at GenLab, 2026. Hackathon winner at Sensora 2.0, VIT Vellore. Open to internships." width="100%"></a>
+<a href="https://havenleno22.github.io/"><img src="assets/banner.svg" alt="Haven Leno J, full-stack developer. MERN Stack Intern at GenLab, 2026. Hackathon winner at Sensora 2.0, VIT Vellore. Open to internships." width="100%"></a>
 
 I'm a third-year B.Tech Computer Science and Engineering student at SRM Institute of Science
 and Technology, Chennai. I build web apps end to end, from the database and API to the
@@ -6,29 +6,43 @@ interface, mostly with React, Node.js and Spring Boot.
 
 - **Internship:** MERN Stack Developer Intern at GenLab, June to August 2026
 - **Hackathon:** Winner, Implementation Category at Sensora 2.0, graVITas '26, VIT Vellore, with SurgeGuard
+- **Smart India Hackathon 2026:** team lead (team of 6) on NMDC FogGuard, hazard alerts for mine vehicles in fog
 - **Now:** looking for software engineering internships
 
 **[See my portfolio](https://havenleno22.github.io/)**
+
+## See it running
+
+<img src="assets/reel.webp" alt="A short reel of my projects running: NMDC FogGuard switching between SAFE, CAUTION and DANGER on foggy road footage, its fleet map and in-cab driver display, SurgeGuard tracking people in a lecture hall, the SurgeGuard alert app and Arduino alarm, RepX and the Multi-Mode AI Translator." width="100%">
 
 ## Featured projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://havenleno22.github.io/#/project/surgeguard"><img src="assets/surgeguard.webp" alt="SurgeGuard landing page" width="100%"></a>
       <h3><a href="https://github.com/HavenLeno22/surgeguard-crowd-safety">SurgeGuard</a></h3>
       Real-time crowd safety. Tracks people in camera feeds and scores crowd stability from 0 to 100, with alerts for security staff and an Arduino alarm.
       <br><br><sub>Python, YOLO, FastAPI, WebSockets, React, Arduino</sub>
       <br><sub><b>Winner, Sensora 2.0</b>. <a href="https://havenleno22.github.io/#/project/surgeguard">Case study</a></sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <img src="assets/fogguard.webp" alt="NMDC FogGuard dashboard changing between SAFE, CAUTION and DANGER on foggy road footage" width="100%">
+      <h3>NMDC FogGuard</h3>
+      Hazard alerts for mine vehicles driving in fog. YOLO and ByteTrack find people, vehicles and animals ahead, an ultrasonic sensor adds distance, and a risk engine gives one verdict: SAFE, CAUTION or DANGER. Control-room dashboard, fleet map and in-cab driver screen.
+      <br><br><sub>Python, YOLO11, ByteTrack, FastAPI, WebSockets, SQLite, ESP32</sub>
+      <br><sub><b>Smart India Hackathon 2026</b>. Team lead. Private repo; hardware link tested in simulation so far</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://havenleno22.github.io/#/project/repx"><img src="assets/repx.webp" alt="RepX home screen" width="100%"></a>
       <h3><a href="https://github.com/HavenLeno22/RepX">RepX</a></h3>
       Live 1v1 fitness battles. Pose estimation in the browser counts only valid reps, and results move your ELO rating like chess.
       <br><br><sub>React, TypeScript, NestJS, Socket.IO, Prisma, MediaPipe</sub>
       <br><sub><a href="https://havenleno22.github.io/#/project/repx">Case study</a></sub>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://havenleno22.github.io/#/project/multi-mode-ai-translator"><img src="assets/translator.webp" alt="The translator converting text into Morse code" width="100%"></a>
       <h3><a href="https://github.com/HavenLeno22/multi-mode-ai-translator">Multi-Mode AI Translator</a></h3>
       Translation between 21 languages with the Gemini API, Morse code with a tap pad, and voice input.
@@ -53,6 +67,13 @@ interface, mostly with React, Node.js and Spring Boot.
 
 **Main:** React, Node.js, Express, MongoDB, Java, Spring Boot<br>
 **Also used:** Python, FastAPI, Flask, TypeScript, Firebase, Tailwind CSS, WebSockets, Gemini API
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-dark.svg">
+  <img alt="A snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-light.svg" width="100%">
+</picture>
 
 ## Contact
 
