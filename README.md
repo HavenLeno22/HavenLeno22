@@ -1,10 +1,10 @@
-<a href="https://havenleno22.github.io/"><img src="assets/hero.webp" alt="A neon dragon made of code flies a figure-eight through a terminal window, weaving in front of and behind the name HAVEN LENO and breathing fire across the letters, above the typed line: while (alive) { code(); }" width="100%"></a>
+<a href="https://havenleno22.github.io/"><img src="assets/hero.webp" alt="A photorealistic black dragon with glowing ember cracks flies across a moonlit sky above the clouds, inside a terminal window. In the corner: HAVEN LENO J and the typed line while (alive) { code(); }" width="100%"></a>
 
 ## `$ whoami`
 
 ```js
 const haven = {
-  basedIn:    "Chennai, India",
+  name:       "Haven Leno J",
   studying:   "B.Tech CSE @ SRM IST, class of 2028",
   shipped:    ["SurgeGuard", "NMDC FogGuard", "RepX", "NextUp"],
   wonAt:      "Sensora 2.0, VIT Vellore (Implementation category)",
@@ -91,4 +91,4 @@ const haven = {
   <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-4ade80?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0b0920" alt="Resume (PDF)"></a>
 </p>
 
-<sub>// the dragon up top is ~400 lines of canvas code, rendered frame by frame. no dragons were harmed.</sub>
+<sub>// dragon footage generated with Veo in Gemini; terminal overlay and loop are canvas code. no dragons were harmed.</sub>
