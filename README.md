@@ -1,6 +1,6 @@
 <a href="https://havenleno22.github.io/"><img src="assets/hero.webp" alt="A photorealistic black dragon with glowing ember cracks flies across a moonlit sky above the clouds, inside a terminal window. In the corner: HAVEN LENO J and the typed line while (alive) { code(); }" width="100%"></a>
 
-## `$ whoami`
+<img src="assets/h-whoami.webp" alt="$ whoami" width="100%">
 
 ```js
 const haven = {
@@ -16,11 +16,11 @@ const haven = {
 };
 ```
 
-## `$ ./play --reel`
+<img src="assets/h-reel.webp" alt="$ ./play --reel" width="100%">
 
 <img src="assets/reel.webp" alt="A short reel of my projects running: NMDC FogGuard switching between SAFE, CAUTION and DANGER on foggy road footage, its fleet map and in-cab driver display, SurgeGuard tracking people in a lecture hall, the SurgeGuard alert app and Arduino alarm, RepX and the Multi-Mode AI Translator." width="100%">
 
-## `$ ls ~/projects --featured`
+<img src="assets/h-featured.webp" alt="$ ls ~/projects --featured" width="100%">
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ const haven = {
   </tr>
 </table>
 
-## `$ ls ~/projects --all`
+<img src="assets/h-all.webp" alt="$ ls ~/projects --all" width="100%">
 
 | Project | What it does | Built with |
 | --- | --- | --- |
@@ -68,27 +68,27 @@ const haven = {
 | [StaffSync](https://github.com/HavenLeno22/staff-sync) | Employee-management dashboard with roles, charts and an audit log | Firebase, Chart.js, Tailwind CSS |
 | [Student Expense Tracker](https://github.com/HavenLeno22/student-expense-tracker) | Income and spending by category with a running balance | React, Firebase |
 
-## `$ cat stack.txt`
+<img src="assets/h-stack.webp" alt="$ cat stack.txt" width="100%">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,python,fastapi,flask,ts,firebase,tailwind,git,arduino&perline=7" alt="React, Node.js, Express, MongoDB, Java, Spring Boot, Python, FastAPI, Flask, TypeScript, Firebase, Tailwind CSS, Git, Arduino">
 </p>
 
-## `$ git log --graph`
+<img src="assets/h-graph.webp" alt="$ git log --graph" width="100%">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-dark.svg">
   <img alt="A snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-light.svg" width="100%">
 </picture>
 
-## `$ ping haven`
+<img src="assets/h-ping.webp" alt="$ ping haven" width="100%">
 
-<p>
-  <a href="https://havenleno22.github.io/"><img src="https://img.shields.io/badge/portfolio-havenleno22.github.io-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0920" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/havenleno"><img src="https://img.shields.io/badge/linkedin-havenleno-67e8f9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0920" alt="LinkedIn"></a>
-  <a href="mailto:havenleno2006@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0920" alt="Email"></a>
-  <a href="https://leetcode.com/u/lenohaven/"><img src="https://img.shields.io/badge/leetcode-lenohaven-fb923c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b0920" alt="LeetCode"></a>
-  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-4ade80?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0b0920" alt="Resume (PDF)"></a>
+<p align="center">
+  <a href="https://havenleno22.github.io/"><img src="https://img.shields.io/badge/portfolio-havenleno22.github.io-ff9a3c?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1430" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/havenleno"><img src="https://img.shields.io/badge/linkedin-havenleno-9fb4ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1430" alt="LinkedIn"></a>
+  <a href="mailto:havenleno2006@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-ffb15e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1430" alt="Email"></a>
+  <a href="https://leetcode.com/u/lenohaven/"><img src="https://img.shields.io/badge/leetcode-lenohaven-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b1430" alt="LeetCode"></a>
+  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-dfe6f2?style=for-the-badge&logo=readthedocs&logoColor=0b1430&labelColor=0b1430" alt="Resume (PDF)"></a>
 </p>
 
-<sub>// dragon footage generated with Veo in Gemini; terminal overlay and loop are canvas code. no dragons were harmed.</sub>
+<p align="center"><sub>// dragon footage generated with Veo in Gemini; terminal overlay and loop are canvas code. no dragons were harmed.</sub></p>
