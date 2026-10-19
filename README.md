@@ -1,21 +1,26 @@
-<a href="https://havenleno22.github.io/"><img src="assets/banner.svg" alt="Haven Leno J, full-stack developer. MERN Stack Intern at GenLab, 2026. Hackathon winner at Sensora 2.0, VIT Vellore. Open to internships." width="100%"></a>
+<a href="https://havenleno22.github.io/"><img src="assets/hero.webp" alt="A neon dragon made of code flies a figure-eight through a terminal window, weaving in front of and behind the name HAVEN LENO and breathing fire across the letters, above the typed line: while (alive) { code(); }" width="100%"></a>
 
-I'm a third-year B.Tech Computer Science and Engineering student at SRM Institute of Science
-and Technology, Chennai. I build web apps end to end, from the database and API to the
-interface, mostly with React, Node.js and Spring Boot.
+## `$ whoami`
 
-- **Internship:** MERN Stack Developer Intern at GenLab, June to August 2026
-- **Hackathon:** Winner, Implementation Category at Sensora 2.0, graVITas '26, VIT Vellore, with SurgeGuard
-- **Smart India Hackathon 2026:** team lead (team of 6) on NMDC FogGuard, hazard alerts for mine vehicles in fog
-- **Now:** looking for software engineering internships
+```js
+const haven = {
+  basedIn:    "Chennai, India",
+  studying:   "B.Tech CSE @ SRM IST, class of 2028",
+  shipped:    ["SurgeGuard", "NMDC FogGuard", "RepX", "NextUp"],
+  wonAt:      "Sensora 2.0, VIT Vellore (Implementation category)",
+  leading:    "a team of 6 at Smart India Hackathon 2026",
+  internedAt: "GenLab, MERN stack, summer 2026",
+  hookedOn:   ["web apps & UI", "backend & systems", "anything real-time"],
+  afk:        ["gym", "open-world games"],
+  lookingFor: "internships, Dec 2026 winter break",
+};
+```
 
-**[See my portfolio](https://havenleno22.github.io/)**
-
-## See it running
+## `$ ./play --reel`
 
 <img src="assets/reel.webp" alt="A short reel of my projects running: NMDC FogGuard switching between SAFE, CAUTION and DANGER on foggy road footage, its fleet map and in-cab driver display, SurgeGuard tracking people in a lecture hall, the SurgeGuard alert app and Arduino alarm, RepX and the Multi-Mode AI Translator." width="100%">
 
-## Featured projects
+## `$ ls ~/projects --featured`
 
 <table>
   <tr>
@@ -52,7 +57,7 @@ interface, mostly with React, Node.js and Spring Boot.
   </tr>
 </table>
 
-## More projects
+## `$ ls ~/projects --all`
 
 | Project | What it does | Built with |
 | --- | --- | --- |
@@ -63,18 +68,27 @@ interface, mostly with React, Node.js and Spring Boot.
 | [StaffSync](https://github.com/HavenLeno22/staff-sync) | Employee-management dashboard with roles, charts and an audit log | Firebase, Chart.js, Tailwind CSS |
 | [Student Expense Tracker](https://github.com/HavenLeno22/student-expense-tracker) | Income and spending by category with a running balance | React, Firebase |
 
-## Stack
+## `$ cat stack.txt`
 
-**Main:** React, Node.js, Express, MongoDB, Java, Spring Boot<br>
-**Also used:** Python, FastAPI, Flask, TypeScript, Firebase, Tailwind CSS, WebSockets, Gemini API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,spring,python,fastapi,flask,ts,firebase,tailwind,git,arduino&perline=7" alt="React, Node.js, Express, MongoDB, Java, Spring Boot, Python, FastAPI, Flask, TypeScript, Firebase, Tailwind CSS, Git, Arduino">
+</p>
 
-## Contributions
+## `$ git log --graph`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-dark.svg">
   <img alt="A snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-light.svg" width="100%">
 </picture>
 
-## Contact
+## `$ ping haven`
 
-[Portfolio](https://havenleno22.github.io/) · [LinkedIn](https://www.linkedin.com/in/havenleno) · [Email](mailto:havenleno2006@gmail.com) · [LeetCode](https://leetcode.com/u/lenohaven/) · [Resume (PDF)](https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf)
+<p>
+  <a href="https://havenleno22.github.io/"><img src="https://img.shields.io/badge/portfolio-havenleno22.github.io-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0920" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/havenleno"><img src="https://img.shields.io/badge/linkedin-havenleno-67e8f9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0920" alt="LinkedIn"></a>
+  <a href="mailto:havenleno2006@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0920" alt="Email"></a>
+  <a href="https://leetcode.com/u/lenohaven/"><img src="https://img.shields.io/badge/leetcode-lenohaven-fb923c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b0920" alt="LeetCode"></a>
+  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="https://img.shields.io/badge/resume-pdf-4ade80?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0b0920" alt="Resume (PDF)"></a>
+</p>
+
+<sub>// the dragon up top is ~400 lines of canvas code, rendered frame by frame. no dragons were harmed.</sub>
