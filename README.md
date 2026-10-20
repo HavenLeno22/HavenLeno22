@@ -29,4 +29,3 @@
 
 <p align="center"><a href="https://havenleno22.github.io/"><img src="assets/link-portfolio.webp" alt="Portfolio: havenleno22.github.io" width="19.77%"></a><a href="https://www.linkedin.com/in/havenleno"><img src="assets/link-linkedin.webp" alt="LinkedIn: in/havenleno" width="20.14%"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=havenleno2006@gmail.com&su=Hi%20Haven"><img src="assets/link-email.webp" alt="Email: havenleno2006@gmail.com" width="20.14%"></a><a href="https://leetcode.com/u/lenohaven/"><img src="assets/link-leetcode.webp" alt="LeetCode: u/lenohaven" width="20.14%"></a><a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="assets/link-resume.webp" alt="Resume (PDF)" width="19.77%"></a></p>
 
-<p align="center"><sub><code>// dragon footage: Veo in Gemini · overlay, loop and sky: canvas + SVG code · no dragons were harmed</code></sub></p>
