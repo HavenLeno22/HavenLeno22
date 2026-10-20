@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Contribution sky
 
 on:
   schedule:
@@ -6,22 +6,25 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/snake.yml]
+    paths: [.github/workflows/sky.yml, scripts/contrib-sky.mjs]
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  draw:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-light.svg?color_snake=#ea580c&color_dots=#ebedf0,#c7d2fe,#93a5e8,#fdba74,#ea580c
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ff9a3c&color_dots=#161b22,#1b2a52,#2f4a8a,#c2410c,#ff9a3c
+          node-version: 24
+
+      - name: Draw the last year of contributions as a night sky
+        run: node scripts/contrib-sky.mjs ${{ github.repository_owner }} dist/contrib-sky.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
