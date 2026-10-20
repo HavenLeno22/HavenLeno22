@@ -38,10 +38,7 @@
 
 <img src="assets/h-graph.webp" alt="$ git log --graph" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-dark.svg">
-  <img alt="A snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/snake-light.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/HavenLeno22/HavenLeno22/output/contrib-sky.svg" alt="My GitHub contributions for the last year drawn as a night sky: each day is a star, brighter for busier days, with active days joined into constellations and a comet flying between them. Redrawn every day." width="100%">
 
 <img src="assets/h-ping.webp" alt="$ ping haven" width="100%">
 
