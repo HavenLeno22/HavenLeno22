@@ -6,31 +6,16 @@
 
 <img src="assets/h-featured.webp" alt="$ ls ~/projects --featured" width="100%">
 
-<p align="center">
-  <a href="https://havenleno22.github.io/#/project/surgeguard"><img src="assets/card-surgeguard.webp" alt="SurgeGuard, winner at Sensora 2.0: real-time crowd safety. Tracks people in live camera feeds, scores crowd stability from 0 to 100, and alerts security staff on their phones and through an Arduino alarm. Python, YOLO, ByteTrack, FastAPI, WebSockets, React, Arduino." width="49%"></a>
-  <img src="assets/card-fogguard.webp" alt="NMDC FogGuard, Smart India Hackathon 2026, team lead: hazard alerts for mine vehicles in fog. Camera vision and an ultrasonic sensor feed a risk engine that gives the driver one verdict: SAFE, CAUTION or DANGER. Private repo; hardware link tested in simulation." width="49%">
-</p>
-<p align="center">
-  <a href="https://havenleno22.github.io/#/project/repx"><img src="assets/card-repx.webp" alt="RepX: live 1v1 fitness battles. Pose estimation in the browser counts only valid reps, and every result moves your ELO rating. React, TypeScript, NestJS, Socket.IO, Prisma, MediaPipe." width="49%"></a>
-  <a href="https://havenleno22.github.io/#/project/multi-mode-ai-translator"><img src="assets/card-translator.webp" alt="Multi-Mode AI Translator, team project: translation between 21 languages with the Gemini API, Morse code with a tap pad, and voice input. Python, Flask, Gemini API, Web Speech API." width="49%"></a>
-</p>
-<p align="center"><sub>source: <a href="https://github.com/HavenLeno22/surgeguard-crowd-safety">surgeguard</a> · <a href="https://github.com/HavenLeno22/RepX">repx</a> · <a href="https://github.com/HavenLeno22/multi-mode-ai-translator">translator</a> · fogguard is private for now</sub></p>
+<p align="center"><a href="https://havenleno22.github.io/#/project/surgeguard"><img src="assets/card-surgeguard.webp" alt="SurgeGuard, winner at Sensora 2.0: real-time crowd safety. Tracks people in live camera feeds, scores crowd stability from 0 to 100, and alerts security staff on their phones and through an Arduino alarm. Python, YOLO, ByteTrack, FastAPI, WebSockets, React, Arduino." width="49.9%"></a><img src="assets/card-fogguard.webp" alt="NMDC FogGuard, Smart India Hackathon 2026, team lead: hazard alerts for mine vehicles in fog. Camera vision and an ultrasonic sensor feed a risk engine that gives the driver one verdict: SAFE, CAUTION or DANGER. Private repo; hardware link tested in simulation." width="49.9%"></p>
+<p align="center"><a href="https://havenleno22.github.io/#/project/repx"><img src="assets/card-repx.webp" alt="RepX: live 1v1 fitness battles. Pose estimation in the browser counts only valid reps, and every result moves your ELO rating. React, TypeScript, NestJS, Socket.IO, Prisma, MediaPipe." width="49.9%"></a><a href="https://havenleno22.github.io/#/project/multi-mode-ai-translator"><img src="assets/card-translator.webp" alt="Multi-Mode AI Translator, team project: translation between 21 languages with the Gemini API, Morse code with a tap pad, and voice input. Python, Flask, Gemini API, Web Speech API." width="49.9%"></a></p>
+<p align="center"><code>$ open</code> <a href="https://github.com/HavenLeno22/surgeguard-crowd-safety"><code>surgeguard/</code></a> <a href="https://github.com/HavenLeno22/RepX"><code>repx/</code></a> <a href="https://github.com/HavenLeno22/multi-mode-ai-translator"><code>translator/</code></a> <code>fogguard/ (private)</code></p>
 
 <img src="assets/h-all.webp" alt="$ ls ~/projects --all" width="100%">
 
-<p align="center">
-  <a href="https://github.com/HavenLeno22/nextup-campus-queue"><img src="assets/tile-nextup.webp" alt="NextUp, team course project: campus queue and token system. Spring Boot, React, WebSocket, JWT." width="49%"></a>
-  <a href="https://github.com/HavenLeno22/anatomix-ai"><img src="assets/tile-anatomix.webp" alt="Anatomix AI, live, work in progress: 3D anatomy learning. React, Three.js." width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/HavenLeno22/healthsys-emr"><img src="assets/tile-healthsys.webp" alt="HealthSys EMR, live, course project: hospital records prototype. HTML, Tailwind CSS, JavaScript." width="49%"></a>
-  <a href="https://github.com/HavenLeno22/agritrace"><img src="assets/tile-agritrace.webp" alt="AgriTrace, hackathon project from Hack To The Future: farm-to-fork supply-chain tracker. Node.js, Express, Gemini API." width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/HavenLeno22/staff-sync"><img src="assets/tile-staffsync.webp" alt="StaffSync: employee-management dashboard with roles, charts and an audit log. Firebase, Chart.js, Tailwind CSS." width="49%"></a>
-  <a href="https://github.com/HavenLeno22/student-expense-tracker"><img src="assets/tile-expense.webp" alt="Student Expense Tracker: income and spending by category with a running balance. React, Firebase, Tailwind CSS." width="49%"></a>
-</p>
-<p align="center"><sub>live demos: <a href="https://havenleno22.github.io/anatomix-ai/">anatomix-ai</a> · <a href="https://havenleno22.github.io/healthsys-emr/">healthsys-emr</a></sub></p>
+<p align="center"><a href="https://github.com/HavenLeno22/nextup-campus-queue"><img src="assets/tile-nextup.webp" alt="NextUp, team course project: campus queue and token system. Spring Boot, React, WebSocket, JWT." width="49.9%"></a><a href="https://github.com/HavenLeno22/anatomix-ai"><img src="assets/tile-anatomix.webp" alt="Anatomix AI, live, work in progress: 3D anatomy learning. React, Three.js." width="49.9%"></a></p>
+<p align="center"><a href="https://github.com/HavenLeno22/healthsys-emr"><img src="assets/tile-healthsys.webp" alt="HealthSys EMR, live, course project: hospital records prototype. HTML, Tailwind CSS, JavaScript." width="49.9%"></a><a href="https://github.com/HavenLeno22/agritrace"><img src="assets/tile-agritrace.webp" alt="AgriTrace, hackathon project from Hack To The Future: farm-to-fork supply-chain tracker. Node.js, Express, Gemini API." width="49.9%"></a></p>
+<p align="center"><a href="https://github.com/HavenLeno22/staff-sync"><img src="assets/tile-staffsync.webp" alt="StaffSync: employee-management dashboard with roles, charts and an audit log. Firebase, Chart.js, Tailwind CSS." width="49.9%"></a><a href="https://github.com/HavenLeno22/student-expense-tracker"><img src="assets/tile-expense.webp" alt="Student Expense Tracker: income and spending by category with a running balance. React, Firebase, Tailwind CSS." width="49.9%"></a></p>
+<p align="center"><code>$ open --live</code> <a href="https://havenleno22.github.io/anatomix-ai/"><code>anatomix-ai ↗</code></a> <a href="https://havenleno22.github.io/healthsys-emr/"><code>healthsys-emr ↗</code></a></p>
 
 <img src="assets/h-stack.webp" alt="$ cat stack.txt" width="100%">
 
@@ -42,12 +27,6 @@
 
 <img src="assets/h-ping.webp" alt="$ ping haven" width="100%">
 
-<p align="center">
-  <a href="https://havenleno22.github.io/"><img src="assets/link-portfolio.webp" alt="Portfolio: havenleno22.github.io" width="19%"></a>
-  <a href="https://www.linkedin.com/in/havenleno"><img src="assets/link-linkedin.webp" alt="LinkedIn: in/havenleno" width="19%"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=havenleno2006@gmail.com&su=Hi%20Haven"><img src="assets/link-email.webp" alt="Email: havenleno2006@gmail.com" width="19%"></a>
-  <a href="https://leetcode.com/u/lenohaven/"><img src="assets/link-leetcode.webp" alt="LeetCode: u/lenohaven" width="19%"></a>
-  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="assets/link-resume.webp" alt="Resume (PDF)" width="19%"></a>
-</p>
+<p align="center"><a href="https://havenleno22.github.io/"><img src="assets/link-portfolio.webp" alt="Portfolio: havenleno22.github.io" width="19.77%"></a><a href="https://www.linkedin.com/in/havenleno"><img src="assets/link-linkedin.webp" alt="LinkedIn: in/havenleno" width="20.14%"></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=havenleno2006@gmail.com&su=Hi%20Haven"><img src="assets/link-email.webp" alt="Email: havenleno2006@gmail.com" width="20.14%"></a><a href="https://leetcode.com/u/lenohaven/"><img src="assets/link-leetcode.webp" alt="LeetCode: u/lenohaven" width="20.14%"></a><a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="assets/link-resume.webp" alt="Resume (PDF)" width="19.77%"></a></p>
 
-<p align="center"><sub>// dragon footage generated with Veo in Gemini; the terminal overlay and loop are canvas code. no dragons were harmed.</sub></p>
+<p align="center"><sub><code>// dragon footage: Veo in Gemini · overlay, loop and sky: canvas + SVG code · no dragons were harmed</code></sub></p>
