@@ -46,11 +46,11 @@
 <img src="assets/h-ping.webp" alt="$ ping haven" width="100%">
 
 <p align="center">
-  <a href="https://havenleno22.github.io/"><img src="assets/btn-portfolio.webp" alt="Portfolio" height="44"></a>
-  <a href="https://www.linkedin.com/in/havenleno"><img src="assets/btn-linkedin.webp" alt="LinkedIn" height="44"></a>
-  <a href="mailto:havenleno2006@gmail.com"><img src="assets/btn-email.webp" alt="Email" height="44"></a>
-  <a href="https://leetcode.com/u/lenohaven/"><img src="assets/btn-leetcode.webp" alt="LeetCode" height="44"></a>
-  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="assets/btn-resume.webp" alt="Resume (PDF)" height="44"></a>
+  <a href="https://havenleno22.github.io/"><img src="assets/link-portfolio.webp" alt="Portfolio: havenleno22.github.io" width="19%"></a>
+  <a href="https://www.linkedin.com/in/havenleno"><img src="assets/link-linkedin.webp" alt="LinkedIn: in/havenleno" width="19%"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=havenleno2006@gmail.com&su=Hi%20Haven"><img src="assets/link-email.webp" alt="Email: havenleno2006@gmail.com" width="19%"></a>
+  <a href="https://leetcode.com/u/lenohaven/"><img src="assets/link-leetcode.webp" alt="LeetCode: u/lenohaven" width="19%"></a>
+  <a href="https://havenleno22.github.io/resume/Haven-Leno-J-Resume.pdf"><img src="assets/link-resume.webp" alt="Resume (PDF)" width="19%"></a>
 </p>
 
 <p align="center"><sub>// dragon footage generated with Veo in Gemini; the terminal overlay and loop are canvas code. no dragons were harmed.</sub></p>
