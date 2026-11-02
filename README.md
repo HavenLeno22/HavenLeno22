@@ -1,4 +1,4 @@
-<a href="https://havenleno22.github.io/"><img src="assets/hero.webp" alt="A photorealistic black dragon with glowing ember cracks flies across a moonlit sky above the clouds, inside a terminal window. In the corner: HAVEN LENO J and the typed line while (alive) { code(); }" width="100%"></a>
+<a href="https://havenleno22.github.io/"><img src="assets/hero.png" alt="A refined moonlit terminal scene with a silver moon, subtle constellation lines and the name HAVEN LENO J." width="100%"></a>
 
 <img src="assets/h-whoami.webp" alt="$ whoami" width="100%">
 
