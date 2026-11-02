@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 330" role="img" aria-labelledby="title desc">
+  <title id="title">Launch log for Haven Leno J</title>
+  <desc id="desc">A moonlit terminal panel showing a current focus on real-world case studies, accessible offline-first web experiences, and a maintained portfolio of shipped work, with a note that Haven is open to internship conversations.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1729"/>
+      <stop offset="0.65" stop-color="#07101c"/>
+      <stop offset="1" stop-color="#111b30"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d8bd82"/><stop offset="1" stop-color="#85a7da"/></linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+
+  <rect x="1" y="1" width="1598" height="328" rx="28" fill="url(#surface)" stroke="#344b6b" stroke-width="2"/>
+  <path d="M32 68H1568" stroke="#344b6b" stroke-width="2"/>
+  <circle cx="48" cy="35" r="8" fill="#ef6a61"/><circle cx="74" cy="35" r="8" fill="#edbe55"/><circle cx="100" cy="35" r="8" fill="#55c775"/>
+  <text x="800" y="43" text-anchor="middle" fill="#b8c8df" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700">haven@portfolio: ~/launch-log</text>
+  <text x="1508" y="43" text-anchor="end" fill="#d8bd82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">ACTIVE</text>
+
+  <circle cx="1470" cy="166" r="95" fill="#89a7d4" opacity="0.08" filter="url(#soft)"/>
+  <circle cx="1470" cy="166" r="37" fill="#e4ebf6" opacity="0.65"/>
+  <path d="M1345 166h200M1470 72v188" stroke="#d8bd82" opacity="0.25"/>
+
+  <text x="56" y="119" fill="#d8bd82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="800" letter-spacing="3">// LAUNCH LOG</text>
+  <text x="56" y="153" fill="#eef4ff" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="27" font-weight="700">Building a portfolio that shows the work, not just the tools.</text>
+
+  <path d="M57 202H1215" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <circle cx="74" cy="202" r="9" fill="#d8bd82"/>
+    <text x="102" y="195" fill="#eef4ff" font-size="20" font-weight="700">Case studies around real-world systems</text>
+    <text x="102" y="221" fill="#9fb1cc" font-size="16">Turning project outcomes into clear, useful stories.</text>
+
+    <circle cx="74" cy="255" r="9" fill="#90b4e4"/>
+    <text x="102" y="248" fill="#eef4ff" font-size="20" font-weight="700">Accessible, offline-first web experiences</text>
+    <text x="102" y="274" fill="#9fb1cc" font-size="16">Designing practical software for the environments where it matters.</text>
+  </g>
+  <text x="1215" y="249" text-anchor="end" fill="#d8bd82" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">OPEN TO INTERNSHIP CONVERSATIONS</text>
+  <path d="M1047 266H1215" stroke="#d8bd82" stroke-width="2"/>
+</svg>
